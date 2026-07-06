@@ -1,4 +1,4 @@
-# whyUniverse
+# theVastnessParadox
 A repository dedicated to exploring the intersection of astrophysics, existential philosophy, and the mysteries of the cosmos. 
 
 > **Let's think together, if Earth is enough for life, then why is the universe so vast.**
