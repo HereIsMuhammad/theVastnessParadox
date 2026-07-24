@@ -19,7 +19,7 @@ This is a collaborative space for curious minds. I value diverse perspectives an
 **How to contribute your opinion:**
 1. **Open an Issue:** Use the `Issues` tab to submit your own theories or counter-arguments.
 2. **Discussions:** Join the community threads to debate existing cosmic questions.
-3. **Pull Requests:** If you have a structured research note or a scientific fact to add, feel free to submit a PR
+3. **Pull Requests:** If you have a structured research note or a scientific fact to add, feel free to submit a PR.
 
 ## Repository Status
 * **Status:** Active Research / Philosophical Log
